@@ -1,6 +1,6 @@
 ### Hi, I'm Sunggyeol 👋
 
-#### I am a Computer Science student at Virginia Tech, part of the class of 2025, with a minor in Human-Computer Interaction. Currently, I am serving as a remote Android Developer Intern at Nest, a Korean property tech startup. My passion lies in HCI and visualization research, and I aspire to contribute to innovative projects that intersect technology with the human experience.
+#### I am a Computer Science student at Virginia Tech, part of the class of 2025, with a minor in Human-Computer Interaction. Previously, I served as a software engineer intern at Nest, a Korean property tech startup. Currently, I am researching machine learning models to gauge public perceptions. My passion lies in HCI and visualization research, and I aspire to contribute to innovative projects that intersect technology with the human experience.
 
 
 
