@@ -1,7 +1,7 @@
 # Hi, I'm Sung (Sunggyeol) Oh 👋
 
 ## :book: About Me
-- 🧹 Building [Fintellection](https://github.com/Fintellection/), an AI-powered search engine designed to fetch and display real-time financial data from the internet. 
+- 🧹 Building [Fintellection](https://www.fintellection.com/), an AI-powered search engine designed to fetch and display real-time financial data from the internet. 
 - 🎓 Computer Science student at [Virginia Tech](https://www.vt.edu)
 - 🖥️ Software Engineer Intern at [Fasoo](https://www.fasoo.com)
 - 🔬 Undergraduate Researcher at [IDEEAS Lab](https://www.ideeaslab.com)
