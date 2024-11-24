@@ -1,18 +1,28 @@
 # Hi, I'm Sung (Sunggyeol) Oh 👋
 
-## :book: About Me
-- 🎓 **Computer Science Student** at [Virginia Tech](https://www.vt.edu)
-- 🔍 **Founder of [Fintellection](https://www.fintellection.com/):** An AI-powered search engine for real-time financial data, using advanced LLM embeddings and Retrieval-Augmented Generation (RAG).
-- 🔬 **Undergraduate Research Assistant** in the **Tech on the Trail Lab:** Fine-tuning LLMs for enhanced educational diary study platforms.
-- 🔬 **Undergraduate Researcher** at [IDEEAS Lab](https://www.ideeaslab.com)
-- 🌐 **More Info:** [sunggyeol.com](https://www.sunggyeol.com)
+## 🎓 About Me
+- **Computer Science Student at [Virginia Tech](https://www.vt.edu)** with a **3.9 overall GPA** and a perfect **4.0 in my major**, pursuing a Bachelor's degree with a minor in Human-Computer Interaction.  
+- Passionate about **machine learning**, **large language models**, and their applications in **education**, **AI-driven feedback systems**, and **real-time data analysis**.  
 
-## 🌱 Current Projects
-- Advanced AI-powered search engines using LLM embeddings and RAG optimize real-time financial data retrieval for faster, more accurate market insights.
+---
 
-## 💼 Previous Projects and Jobs
-- 🖥️ **Software Engineer Intern** at [Fasoo](https://www.fasoo.com): Worked on cutting-edge real-time transcription with VAD, achieving a 60% speed improvement.
-- **Machine Learning & Data Analysis**: Conducted sentiment analysis using LLMs and BERT embeddings to gather insights into public perceptions of generative AI in CS education.
+## 🛠️ Work Experience
+### **Undergraduate Research Assistant**  
+- **[Technology on the Trail Lab](https://techonthetrail.net/)**: Fine-tuned **Mistral 7B** for an AI-powered writing feedback system, enabling personalized insights on student essays. Engineered backend solutions using **embeddings**, **K-Means clustering**, and **RAG** to analyze writing trends and support professors with data-driven feedback.  
+- **[IDEEAS Lab](https://ideeaslab.com)**: Conducted sentiment analysis and topic modeling on social media data to explore public perceptions of generative AI in education. Combined **BERT-based models** and **LLMs**, with LLM achieving **30% higher accuracy**. Published and presented findings at the **IEEE Frontiers in Education (FIE) Conference**, highlighting a **57% positive sentiment** toward AI in education.
 
-## 📫 How to reach me
-- :email: Email: sunggyeol@vt.edu
+### **Software Engineer Intern** at [Fasoo](https://www.fasoo.com)  
+- Developed a high-performance **speech-to-speech platform** on AWS EC2, integrating **real-time transcription** using **OpenAI's Whisper**, **WebSockets**, and advanced **Voice Activity Detection (VAD)**. Achieved a **60% speed improvement** while supporting 100K+ concurrent users with low latency.
+
+---
+
+## 🚀 Projects
+- **[Fintellection](https://www.fintellection.com/):** AI-powered search engine leveraging **LLM embeddings** and **Retrieval-Augmented Generation (RAG)** to deliver real-time financial data insights.  
+- **[Sentiment Analysis](https://drive.google.com/file/d/1jjJfiynY9I7R6g6xFQ6rKqt0RtYlRUZY/view?usp=sharing):** Analyzed public perceptions of generative AI in CS education, combining **BERT-based** and **LLM approaches**, with a focus on thematic and sentiment analysis.  
+- **Cloud-Based Pipelines**: Built scalable solutions for **speech-to-speech applications** during my internship at Fasoo, delivering high accuracy and performance.
+
+---
+
+## 📬 Get in Touch
+- **Email**: sunggyeol@vt.edu, sunggyeoloh@gmail.com
+- **Website**: [sunggyeol.com](https://www.sunggyeol.com)  
