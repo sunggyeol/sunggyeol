@@ -1,13 +1,13 @@
 # Hi, I'm Sung (Sunggyeol) Oh 👋
 
 ## 🎓 About Me
-- **Computer Science Student at [Virginia Tech](https://www.vt.edu)** with a **3.9 overall GPA** and a perfect **4.0 in my major**, pursuing a Bachelor's degree with a minor in Human-Computer Interaction.  
+- **Computer Science Student at [Virginia Tech](https://www.vt.edu)** with a **3.91 overall GPA**, pursuing a Bachelor's degree with a minor in Human-Computer Interaction.  
 - Passionate about **machine learning**, **large language models**, and their applications in **education**, **AI-driven feedback systems**, and **real-time data analysis**.  
 
 ---
 
-## 🛠️ Work Experience
-### **Undergraduate Research Assistant**  
+## 🛠️ Experience
+### **Undergraduate Research**  
 - **[Technology on the Trail Lab](https://techonthetrail.net/)**: Fine-tuned **Mistral 7B** for an AI-powered writing feedback system, enabling personalized insights on student essays. Engineered backend solutions using **embeddings**, **K-Means clustering**, and **RAG** to analyze writing trends and support professors with data-driven feedback.  
 - **[IDEEAS Lab](https://ideeaslab.com)**: Conducted sentiment analysis and topic modeling on social media data to explore public perceptions of generative AI in education. Combined **BERT-based models** and **LLMs**, with LLM achieving **30% higher accuracy**. Published and presented findings at the **IEEE Frontiers in Education (FIE) Conference**, highlighting a **57% positive sentiment** toward AI in education.
 
