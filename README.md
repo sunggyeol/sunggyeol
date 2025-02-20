@@ -1,4 +1,4 @@
-# Hi, I'm Sung (Sunggyeol) Oh 👋
+# Hi, I'm Sung 👋
 
 ## 🎓 About Me
 - **Computer Science Student at [Virginia Tech](https://www.vt.edu)** with a **3.91 overall GPA**, pursuing a Bachelor's degree with a minor in Human-Computer Interaction.  
@@ -18,9 +18,11 @@
 
 ## 🚀 Projects
 - **[Fintellection](https://www.fintellection.com/):** AI-powered search engine leveraging **LLM embeddings** and **Retrieval-Augmented Generation (RAG)** to deliver real-time financial data insights.  
-- **[Sentiment Analysis](https://drive.google.com/file/d/1jjJfiynY9I7R6g6xFQ6rKqt0RtYlRUZY/view?usp=sharing):** Analyzed public perceptions of generative AI in CS education, combining **BERT-based** and **LLM approaches**, with a focus on thematic and sentiment analysis.  
-- **Cloud-Based Pipelines**: Built scalable solutions for **speech-to-speech applications** during my internship at Fasoo, delivering high accuracy and performance.
-
+- **[Sentiment Analysis](https://drive.google.com/file/d/11kOgVhbbJl4VWWhbcMkipTIc5biywsip/view):** Analyzed public perceptions of generative AI in CS education, combining **BERT-based** and **LLM approaches**, with a focus on thematic and sentiment analysis.  
+- **Cloud-Based Speech-to-Speech**: Built scalable solutions for **speech-to-speech applications** during my internship at Fasoo, delivering high accuracy and performance.
+- **Diary Study Platform**: Developed an innovative diary study platform that leverages fine-tuned large language models to analyze qualitative diary entries. Using **fine-tuned Mistral 7B**, the platform extracts thematic trends and sentiment nuances from unstructured data.  
+- **[VT Copilot](http://vtcopilot.com/)**: AI-powered **campus assistant** using **LLM embeddings and RAG**, featuring a **data analyst agent** that turns coursework-related data into **interactive charts**. Built with **FastAPI and React** for seamless user interaction.  
+- **[Internal Deep Research](https://github.com/sunggyeol/internal-deep-research)**: Designed an **AI-powered research assistant** that generates structured reports from internal documents using **LLMs and FAISS-based retrieval**. The tool recursively scans text and markdown files, aggregates content, and synthesizes **iterative markdown reports with citations**.  
 ---
 
 ## 📬 Get in Touch
