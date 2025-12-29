@@ -1,7 +1,7 @@
 # Hi, I'm Sung 👋
 
 ## 🎓 About Me
-- **Computer Science Student at [Virginia Tech](https://www.vt.edu)** with a **3.89 overall GPA**, pursuing a Bachelor's degree with a minor in Human-Computer Interaction.  
+- **Computer Science Student at [Virginia Tech](https://www.vt.edu)** with a **3.9 overall GPA**, pursuing a Bachelor's degree with a minor in Human-Computer Interaction.  
 - Passionate about **Human-Computer Interaction**, **human-centered AI**, and **visualization**.  
 
 ---
